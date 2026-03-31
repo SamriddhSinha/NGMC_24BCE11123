@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Aditya Jain | Course: Open Source Software
+# Author: Samriddh Sinha | Course: Open Source Software
 # This script displays basic Linux system information in a welcome-screen style.
 
 # --- Variables ---
-STUDENT_NAME="Aditya Jain"
+STUDENT_NAME="Samriddh Sinha"
 SOFTWARE_CHOICE="Git"
 
 # --- System info ---
