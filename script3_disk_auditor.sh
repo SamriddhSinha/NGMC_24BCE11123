@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Aditya Jain | Course: Open Source Software
+# Author: Samriddh Sinha | Course: Open Source Software
 # This script audits important Linux directories by displaying
 # their permissions, owner/group, and disk usage.
 
