@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Aditya Jain | Course: Open Source Software
+# Author: Samriddh Sinha | Course: Open Source Software
 # This script checks whether a package is installed, displays version/details,
 # and prints a short philosophy note using a case statement.
 
