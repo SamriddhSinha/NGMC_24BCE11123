@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Aditya Jain | Course: Open Source Software
+# Author: Samriddh Sinha | Course: Open Source Software
 # This script reads a log file line by line, counts keyword matches,
 # and shows the last 5 matching lines.
 
